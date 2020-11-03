@@ -2,3 +2,6 @@ Test test test
 Today is November 3
 It is sunny outside
 It is Tuesday
+Nice Job
+Glad its Sunny
+Have a good day
